@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.138845f1.css",
+    "main.js": "/static/js/main.ebd44165.js",
+    "static/media/p2.png": "/static/media/p2.b8c20e21ce6a2e2e7326.png",
+    "static/media/porto_Aji.pdf": "/static/media/porto_Aji.8a2e6aa4c3fcc4e2735f.pdf",
+    "static/media/av1.jpeg": "/static/media/av1.7c8a26a3e05e7f2ad279.jpeg",
+    "static/media/p0.png": "/static/media/p0.3432f3e86e029a59ff21.png",
+    "static/media/p1.png": "/static/media/p1.3631bc9ff7f6cf719000.png",
+    "static/media/f1.jpeg": "/static/media/f1.7220b20a605c1e2a612b.jpeg",
+    "index.html": "/index.html",
+    "main.138845f1.css.map": "/static/css/main.138845f1.css.map",
+    "main.ebd44165.js.map": "/static/js/main.ebd44165.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.138845f1.css",
+    "static/js/main.ebd44165.js"
+  ]
+}
